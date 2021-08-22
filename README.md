@@ -1,2 +1,2 @@
 # rust_playground
-Playground for rust tutrial
+Playground for [Rust book](https://doc.rust-lang.org/book/)
